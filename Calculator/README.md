@@ -1,0 +1,1 @@
+A Basic calculator made using C. This simply works by taking three user inputs. These inputs are separated into `x`, `c` and `y`. `x` and `y` are values where `c` represents the operator (+,-,*,/). A switch statement is used in order to run the right calculation for the given operator.
